@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_933287_dvc_wea_0.Audience for app weather-workspace</api_name>
+        <description/>
+        <name>Audience for app weather-workspace</name>
+        <roles>52c11be72f4f1110dc91c886f699b68d,22c11be72f4f1110dc91c886f699b691</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e532132b2f4f1110dc91c886f699b6e7</sys_id>
+        <sys_name>Audience for app weather-workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>sys_ux_applicability_e532132b2f4f1110dc91c886f699b6e7</sys_update_name>
+    </sys_ux_applicability>
+</record_update>

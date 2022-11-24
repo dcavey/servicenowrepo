@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">c432dfe7c44f1110d3d26615b7f96ed4</canvas>
+        <component display_value="">3a64f550256090d9578ede76158e899c</component>
+        <component_props>{"variant":"header-secondary","label":"My Work","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>3</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:40</sys_created_on>
+        <sys_id>0832dfe7b74f111058af4b2cb69a9eda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>par_dashboard_widget_0832dfe7b74f111058af4b2cb69a9eda</sys_update_name>
+        <sys_updated_by>dvc</sys_updated_by>
+        <sys_updated_on>2022-11-15 07:19:40</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</application>
+        <file_path/>
+        <instance_id>9e83d690dbf858d8413450b6f4961917</instance_id>
+        <instance_name>dev103060</instance_name>
+        <name>par_dashboard_widget_0832dfe7b74f111058af4b2cb69a9eda</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">c432dfe7c44f1110d3d26615b7f96ed4</canvas><component display_value="">3a64f550256090d9578ede76158e899c</component><component_props>{"variant":"header-secondary","label":"My Work","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props><h>3</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>dvc</sys_created_by><sys_created_on>2022-11-15 07:19:40</sys_created_on><sys_id>0832dfe7b74f111058af4b2cb69a9eda</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package><sys_policy/><sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope><sys_update_name>par_dashboard_widget_0832dfe7b74f111058af4b2cb69a9eda</sys_update_name><sys_updated_by>dvc</sys_updated_by><sys_updated_on>2022-11-15 07:19:40</sys_updated_on><visualization/><w>12</w><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1965616438</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2c40a0e32f031110dc91c886f699b629</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-11-14 18:22:16</sys_created_on>
+        <sys_id>bc665dff2f075110dc91c886f699b6ba</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1847760afc00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>7c665dff470751104b7566080b6468ba</update_guid>
+        <update_guid_history>7c665dff470751104b7566080b6468ba:1965616438</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">b0665dff2f075110dc91c886f699b6bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 16:57:14</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>6e2f0e0ff2124138afc06bf07c4c2440</sys_id>
+        <sys_metadata>0832dfe7b74f111058af4b2cb69a9eda</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_scope_delete display_value="">0fecdc9e39e141ac92013818119c4ef1</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_0832dfe7b74f111058af4b2cb69a9eda</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_0832dfe7b74f111058af4b2cb69a9eda">bc665dff2f075110dc91c886f699b6ba</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:41</sys_created_on>
+        <sys_id>8032dfe71d4f1110f1be1e46731cd7d9</sys_id>
+        <sys_name/>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Suggested Result Reader Group for Starter Workspace - Workspace Search">0832dfe70b4f111073b4a917a1a30dd5</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="Personal Click Reader">ec49ee515b511010627eed35cc81c7b9</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_8032dfe71d4f1110f1be1e46731cd7d9</sys_update_name>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

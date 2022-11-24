@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Weather Workspace">4432dfe7024f111019967718c35815d3</dashboard>
+        <dashboard_tab display_value="Tab">0832dfe7a24f1110cfb7681a978d01d7</dashboard_tab>
+        <layout>[{"sys_id":"4032dfe7844f1110f3e815c18c0d36d6","x":0,"y":0,"w":4,"h":15,"component_id":"7219cee4e0177c3cf2e48d550ce0f71b","component_props":"{\"listTitle\":\"Weather stats\",\"table\":\"x_933287_dvc_wea_0_weather_stats\",\"query\":\"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe\",\"columns\":\"sys_created_on,min_temperature\",\"groupByField\":\"\",\"limit\":10,\"maxColumns\":5,\"page\":1,\"highlightedValueConfigId\":\"\",\"hideHighlightedValues\":false,\"hideHeader\":true,\"hideTitle\":false,\"hideTitleRowCount\":false,\"hideRefreshButton\":false,\"hideLastRefreshedText\":false,\"hideColumnResizing\":true,\"hideColumnGrouping\":true,\"hideColumnFiltering\":true,\"hideColumnSorting\":false,\"hidePersonalization\":true,\"hideColumnReorder\":true,\"hideDotwalk\":true,\"hideInlineEditing\":true,\"hideHighlightContent\":false,\"highlightContent\":\"{ \\\"patterns\\\": [], \\\"color\\\" : \\\"\\\" }\",\"hideLinks\":false,\"hideViewAll\":false,\"hideCellFilter\":true,\"hideCheckboxHover\":true,\"hideFilterPanel\":false,\"hideFirstPage\":false,\"hideLastPage\":false,\"hideLimitSelector\":false,\"hideMenuButton\":true,\"hideMultiEdit\":false,\"hideDeclarativeActions\":false,\"hideNextPage\":false,\"hidePages\":false,\"hidePagination\":true,\"hidePanel\":true,\"hidePanelAdvanced\":false,\"hidePanelConditionDelete\":false,\"hidePanelFooter\":false,\"hidePanelRestore\":false,\"hidePreviousPage\":false,\"hideQuickEdit\":true,\"hideRange\":false,\"hideRowCount\":false,\"hideRowSelector\":false,\"hideSelectAll\":true,\"hideEmptyStateImage\":false,\"hideDBViews\":false,\"hideUnnecessaryRowSelectors\":true,\"overrideWordWrapUserPref\":false,\"wordWrap\":false,\"maxCharLimit\":4000,\"refreshRequested\":\"\",\"recordSelectedTable\":\"\",\"recordSelectedSysId\":\"\",\"recordSelectedQuery\":\"\",\"recordSelectedView\":\"\"}","can_edit":true}]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:41</sys_created_on>
+        <sys_id>c432dfe7c44f1110d3d26615b7f96ed4</sys_id>
+        <sys_name/>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>par_dashboard_canvas_c432dfe7c44f1110d3d26615b7f96ed4</sys_update_name>
+    </par_dashboard_canvas>
+</record_update>

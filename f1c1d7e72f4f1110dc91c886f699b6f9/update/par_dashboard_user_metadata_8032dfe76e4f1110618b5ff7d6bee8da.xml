@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="INSERT_OR_UPDATE">
+        <created_by_user display_value="Dirk Vande Cavey">afc0d7a72f4f1110dc91c886f699b610</created_by_user>
+        <created_on>2022-05-29 16:29:20</created_on>
+        <dashboard display_value="Weather Workspace">4432dfe7024f111019967718c35815d3</dashboard>
+        <last_updated_on>2022-11-15 17:12:27</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:40</sys_created_on>
+        <sys_id>8032dfe76e4f1110618b5ff7d6bee8da</sys_id>
+        <sys_name/>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_8032dfe76e4f1110618b5ff7d6bee8da</sys_update_name>
+        <updated_by_user display_value="Dirk Vande Cavey">afc0d7a72f4f1110dc91c886f699b610</updated_by_user>
+    </par_dashboard_user_metadata>
+</record_update>

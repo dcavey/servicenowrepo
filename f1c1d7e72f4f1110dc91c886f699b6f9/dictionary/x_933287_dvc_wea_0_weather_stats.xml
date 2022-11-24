@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="436b74f72fc35110dc91c886f699b6b2" label="weather_stats" max_length="40" name="x_933287_dvc_wea_0_weather_stats" type="collection">
+        <element label="min_temperature" max_length="40" name="min_temperature" type="decimal"/>
+    </element>
+</database>

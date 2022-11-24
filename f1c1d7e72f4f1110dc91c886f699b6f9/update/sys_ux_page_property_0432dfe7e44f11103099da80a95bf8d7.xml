@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Weather Workspace">cc32dfe7a34f11103255a8314bf523d3</page>
+        <required_translations>[ {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New Task",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0432dfe7e44f11103099da80a95bf8d7</sys_id>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>sys_ux_page_property_0432dfe7e44f11103099da80a95bf8d7</sys_update_name>
+        <type>json</type>
+        <unique_name>x_933287_dvc_wea_0.cc32dfe7a34f11103255a8314bf523d3.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New Task"},"routeInfo":{"route":"record","fields":{"table":"task","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"task","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0432dfe7e44f11103099da80a95bf8d7"/>
+</record_update>

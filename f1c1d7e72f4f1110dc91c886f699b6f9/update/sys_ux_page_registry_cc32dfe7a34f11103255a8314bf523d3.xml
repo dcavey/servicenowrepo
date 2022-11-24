@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>0432dfe7274f1110efe6d74bb54b30da</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>weather-workspace</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:41</sys_created_on>
+        <sys_id>cc32dfe7a34f11103255a8314bf523d3</sys_id>
+        <sys_name>Weather Workspace</sys_name>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>sys_ux_page_registry_cc32dfe7a34f11103255a8314bf523d3</sys_update_name>
+        <title>Weather Workspace</title>
+    </sys_ux_page_registry>
+</record_update>

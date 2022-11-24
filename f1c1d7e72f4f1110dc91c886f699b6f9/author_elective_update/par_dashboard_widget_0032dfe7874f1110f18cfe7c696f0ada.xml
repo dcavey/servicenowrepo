@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">c432dfe7c44f1110d3d26615b7f96ed4</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"enableRealTimeUpdate":false,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Task","sourceType":"table","tableOrViewName":"task","filterQuery":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","id":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"My Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGt4TnpJeU9BPT0xNjUzODQyMzE4NDk1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:40</sys_created_on>
+        <sys_id>0032dfe7874f1110f18cfe7c696f0ada</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>par_dashboard_widget_0032dfe7874f1110f18cfe7c696f0ada</sys_update_name>
+        <sys_updated_by>dvc</sys_updated_by>
+        <sys_updated_on>2022-11-15 07:19:40</sys_updated_on>
+        <visualization/>
+        <w>4</w>
+        <x>0</x>
+        <y>2</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</application>
+        <file_path/>
+        <instance_id>9e83d690dbf858d8413450b6f4961917</instance_id>
+        <instance_name>dev103060</instance_name>
+        <name>par_dashboard_widget_0032dfe7874f1110f18cfe7c696f0ada</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">c432dfe7c44f1110d3d26615b7f96ed4</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"enableRealTimeUpdate":false,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Task","sourceType":"table","tableOrViewName":"task","filterQuery":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","id":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"My Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGt4TnpJeU9BPT0xNjUzODQyMzE4NDk1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props><h>9</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>dvc</sys_created_by><sys_created_on>2022-11-15 07:19:40</sys_created_on><sys_id>0032dfe7874f1110f18cfe7c696f0ada</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package><sys_policy/><sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope><sys_update_name>par_dashboard_widget_0032dfe7874f1110f18cfe7c696f0ada</sys_update_name><sys_updated_by>dvc</sys_updated_by><sys_updated_on>2022-11-15 07:19:40</sys_updated_on><visualization/><w>4</w><x>0</x><y>2</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-331626385</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2c40a0e32f031110dc91c886f699b629</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-11-14 18:22:16</sys_created_on>
+        <sys_id>ec665dff2f075110dc91c886f699b69a</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1847760afc00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>ac665dffea075110f853af89111b519a</update_guid>
+        <update_guid_history>ac665dffea075110f853af89111b519a:-331626385</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">38665dff2f075110dc91c886f699b69c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 16:57:14</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>6ec78909c7314ead83380e85b8f7d511</sys_id>
+        <sys_metadata>0032dfe7874f1110f18cfe7c696f0ada</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_scope_delete display_value="">0fecdc9e39e141ac92013818119c4ef1</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_0032dfe7874f1110f18cfe7c696f0ada</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_0032dfe7874f1110f18cfe7c696f0ada">ec665dff2f075110dc91c886f699b69a</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

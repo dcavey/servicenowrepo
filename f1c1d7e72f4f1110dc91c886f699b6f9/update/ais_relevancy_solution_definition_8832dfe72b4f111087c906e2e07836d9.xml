@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ais_relevancy_solution_definition">
+    <ais_relevancy_solution_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="Search Relevancy">458c3b2ab72300100e173307fe11a923</capability>
+        <current_solution_version/>
+        <dataset_language>en</dataset_language>
+        <fields>signal_json</fields>
+        <filter table="ais_relevancy_training_staging">sys_created_onONLast 30 days@javascript:gs.beginningOfLast30Days()@javascript:gs.endOfLast30Days()^search_profile=cc32dfe7944f11105338e5b1c8580ed9^EQ<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="Last 30 days@javascript:gs.beginningOfLast30Days()@javascript:gs.endOfLast30Days()"/>
+            <item display_table="ais_search_profile" display_value="Weather Workspace search profile" endquery="false" field="search_profile" goto="false" newquery="false" operator="=" or="false" value="cc32dfe7944f11105338e5b1c8580ed9"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <profile display_value="Weather Workspace search profile">cc32dfe7944f11105338e5b1c8580ed9</profile>
+        <request_source>api</request_source>
+        <solution_label>ais_relevancy_cc32dfe7944f11105338e5b1c8580ed9</solution_label>
+        <solution_name>ml_x_snc_sn_workspace_start_global_ais_relevancy_cc32dfe7944f11105338e5b1c8580ed9</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"trainingMode":"generateFeatureVectorsandTrain","algorithm":"liblinear"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ais_relevancy_solution_definition</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8832dfe72b4f111087c906e2e07836d9</sys_id>
+        <sys_name>ais_relevancy_cc32dfe7944f11105338e5b1c8580ed9</sys_name>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>ais_relevancy_solution_definition_8832dfe72b4f111087c906e2e07836d9</sys_update_name>
+        <table>ais_relevancy_training_staging</table>
+        <training_frequency>every_30_days</training_frequency>
+        <word_vector_corpus/>
+    </ais_relevancy_solution_definition>
+</record_update>

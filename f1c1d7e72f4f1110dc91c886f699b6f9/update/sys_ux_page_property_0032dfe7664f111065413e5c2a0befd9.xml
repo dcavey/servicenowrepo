@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>User Preferences</description>
+        <name>chrome_preferences</name>
+        <page display_value="Weather Workspace">cc32dfe7a34f11103255a8314bf523d3</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0032dfe7664f111065413e5c2a0befd9</sys_id>
+        <sys_name>chrome_preferences</sys_name>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>sys_ux_page_property_0032dfe7664f111065413e5c2a0befd9</sys_update_name>
+        <type>json</type>
+        <unique_name>x_933287_dvc_wea_0.cc32dfe7a34f11103255a8314bf523d3.root.chrome_preferences</unique_name>
+        <value>[&#13;
+  "workspace.notifications.inbox.desktop",&#13;
+  "workspace.notifications.inbox.audio",&#13;
+  "workspace.notifications.chat.desktop",&#13;
+  "workspace.notifications.chat.audio",&#13;
+  "workspace.showRibbon",&#13;
+  "workspace.showAgentAssist",&#13;
+  "workspace.wrapListText",&#13;
+  "workspace.notifications.showPopups",&#13;
+  "workspace.notifications.showBadgeCount",&#13;
+  "rowcount",&#13;
+  "ts.match",&#13;
+  "glide.ui.accessibility",&#13;
+  "glide.ui.report.accessibility.patterns",&#13;
+  "glide.ui.date_format",&#13;
+  "list_export.deliveryType",&#13;
+  "list_export.orientationType",&#13;
+  "list_export.fileType",&#13;
+  "list_export.email"&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0032dfe7664f111065413e5c2a0befd9"/>
+</record_update>

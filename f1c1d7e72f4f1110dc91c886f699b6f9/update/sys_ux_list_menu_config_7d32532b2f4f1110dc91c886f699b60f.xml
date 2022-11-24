@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Weather Workspace_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:46</sys_created_on>
+        <sys_id>7d32532b2f4f1110dc91c886f699b60f</sys_id>
+        <sys_name>Weather Workspace_menu_config</sys_name>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_7d32532b2f4f1110dc91c886f699b60f</sys_update_name>
+    </sys_ux_list_menu_config>
+</record_update>

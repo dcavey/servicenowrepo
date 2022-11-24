@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="Weather Workspace">cc32dfe7a34f11103255a8314bf523d3</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>dvc</sys_created_by>
+        <sys_created_on>2022-11-15 07:19:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>4032dfe7104f1110bda3fae1a11f97d8</sys_id>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="DVC Weather" source="x_933287_dvc_wea_0">f1c1d7e72f4f1110dc91c886f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVC Weather">f1c1d7e72f4f1110dc91c886f699b6f9</sys_scope>
+        <sys_update_name>sys_ux_page_property_4032dfe7104f1110bda3fae1a11f97d8</sys_update_name>
+        <type>json</type>
+        <unique_name>x_933287_dvc_wea_0.cc32dfe7a34f11103255a8314bf523d3.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=4032dfe7104f1110bda3fae1a11f97d8"/>
+</record_update>
